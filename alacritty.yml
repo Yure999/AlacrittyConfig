@@ -9,7 +9,7 @@ window:
   #dynamic_padding: true
 
   padding:
-    x: 12
+    x: 14
     y: 10
 
   # Startup Mode (changes require restart)
@@ -40,7 +40,7 @@ font:
 
   offset:
    x: 0
-   y: 2
+   y: 4
 
   # Note: This requires RESTART
   # By default when you change the offset above you'll see an issue, where the texts are bottom
@@ -49,7 +49,7 @@ font:
   glyph_offset:
    x: 0
    # Keeping this as half of offset to vertically align the text in cursor
-   y: 7
+   y: 2
 
   # Better font rendering for mac
   use_thin_strokes: true
